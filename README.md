@@ -84,6 +84,32 @@ A pharmacy-oriented web application combining e-commerce workflows with inventor
 
 [**View MedPlus Repository →**](https://github.com/FardinAhasanDev/Medplus_E-Commerce_Site)
 
+### 🧩 [Patient Management System — Repository & Factory Patterns](https://github.com/FardinAhasanDev/RepositoryAndFactoryProject)
+
+A **C# console application** built with **.NET Framework 4.7.2**, demonstrating object-oriented design, the **Repository Pattern**, and the **Factory Method Pattern** through patient management workflows.
+
+- Create, view, update, and delete patient records through a repository abstraction
+- Manage **In-Patients** and **Out-Patients** with separate billing rules
+- Automatically calculate medicine costs, service charges, and total patient bills
+- Display formatted patient records and patient-type summary counts
+
+**Stack:** `C#` · `.NET Framework 4.7.2` · `OOP` · `Repository Pattern` · `Factory Method Pattern` · `Console App`
+
+[**View Patient Management Repository →**](https://github.com/FardinAhasanDev/RepositoryAndFactoryProject)
+
+### 🗄️ [Hospital Management Database — SQL Server](https://github.com/FardinAhasanDev/SQL-On-Hospital-Management-)
+
+A **Microsoft SQL Server** database case study demonstrating relational database design and practical **T-SQL** operations for hospital management.
+
+- Design and populate tables for **Patients, Doctors, Appointments, Test Reports, and Billing**
+- Explore **Stored Procedures, Views, User-Defined Functions, Triggers, and Sequences**
+- Practice **joins, aggregate queries, grouping, and data manipulation**
+- Work with **transactions** and SQL scripts supported by a case-study document
+
+**Stack:** `SQL Server` · `T-SQL` · `DDL / DML` · `Stored Procedures` · `Views` · `Functions` · `Triggers`
+
+[**View Hospital Database Repository →**](https://github.com/FardinAhasanDev/SQL-On-Hospital-Management-)
+
 ## 📌 What I'm Working On
 
 - Improving application architecture and backend development practices
