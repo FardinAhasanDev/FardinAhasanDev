@@ -110,6 +110,19 @@ A **Microsoft SQL Server** database case study demonstrating relational database
 
 [**View Hospital Database Repository →**](https://github.com/FardinAhasanDev/SQL-On-Hospital-Management-)
 
+### 🏥 [PatientCare Pro — Patient Management System (ASP.NET MVC)](https://github.com/FardinAhasanDev/PatientMvcDetailsSPA)
+
+An **ASP.NET MVC 5** web application built with **.NET Framework 4.8**, demonstrating **Entity Framework Code First**, **AJAX-based CRUD operations**, and **role-based authentication** through practical patient management workflows.
+
+- Create, view, update, and delete patient records using AJAX-powered modal forms
+- Manage doctors, patient prescriptions, registration details, and profile image uploads
+- Implement user registration, login, and role-based authorization with an administrator panel
+- Display patient statistics, enrollment status, and searchable patient records through a responsive interface
+
+**Stack:** `C#` · `ASP.NET MVC 5` · `.NET Framework 4.8` · `Entity Framework 6` · `SQL Server` · `jQuery` · `AJAX` · `Bootstrap 5`
+
+[**View PatientCare Pro Repository →**](https://github.com/FardinAhasanDev/PatientMvcDetailsSPA)
+
 ## 📌 What I'm Working On
 
 - Improving application architecture and backend development practices
