@@ -9,6 +9,10 @@ I build practical, database-driven web applications with a focus on clean archit
 [![GitHub](https://img.shields.io/badge/GitHub-FardinAhasanDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FardinAhasanDev)
 [![MediCore](https://img.shields.io/badge/Featured-MediCore-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/FardinAhasanDev/CoreDataBaseFirstCRUDUsingSP)
 [![MedPlus](https://img.shields.io/badge/Featured-MedPlus-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/FardinAhasanDev/Medplus_E-Commerce_Site)
+[![ClinicCare](https://img.shields.io/badge/Featured-ClinicCare-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/FardinAhasanDev/cliniccare-fullstack)
+[![PatientCare Pro](https://img.shields.io/badge/Featured-PatientCare_Pro-0078D4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/FardinAhasanDev/PatientMvcDetailsSPA)
+[![Repository & Factory](https://img.shields.io/badge/Project-Repository_%26_Factory-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/FardinAhasanDev/RepositoryAndFactoryProject)
+[![Hospital Database](https://img.shields.io/badge/Project-Hospital_Database-CC2927?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/FardinAhasanDev/SQL-On-Hospital-Management-)
 
 </div>
 
@@ -16,7 +20,7 @@ I build practical, database-driven web applications with a focus on clean archit
 
 ## 👨‍💻 About Me
 
-- 💻 I develop full-stack web applications using **ASP.NET Core MVC**, **C#**, **Node.js**, **Express.js**, and **Angular & React**.
+- 💻 I develop full-stack web applications using **ASP.NET Core MVC & Web API**, **C#**, **Node.js**, **Express.js**, and **Angular & React**.
 - 🗃️ I work with **SQL Server**, **MongoDB**, **Entity Framework Core**, and **Mongoose**.
 - 🛠️ I enjoy building **CRUD systems**, **stored procedure integrations**, and practical management applications.
 - 🎯 My focus is on improving backend development, database design, and software engineering skills.
@@ -28,6 +32,7 @@ I build practical, database-driven web applications with a focus on clean archit
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -57,6 +62,20 @@ I build practical, database-driven web applications with a focus on clean archit
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ## 🚀 Featured Projects
+
+### 🩺 [ClinicCare — Full-Stack Doctor Management System](https://github.com/FardinAhasanDev/cliniccare-fullstack)
+
+A full-stack application combining an **ASP.NET Core 9 Web API** with an **Angular** frontend to manage doctor profiles, departments, and specializations using **EF Core Code First** and **SQL Server**.
+
+- Create, view, update, and delete doctor profiles with join dates and active/inactive status
+- Manage multiple specializations per doctor, including departments and years of experience, through dynamic Reactive Forms
+- Upload doctor photos with live previews and clean up replaced or deleted image files
+- Search doctors by name or department, filter by status, and display reactive dashboard counters using Angular Signals
+- Connect the Angular frontend to REST API endpoints with HttpClient and document the API with Swagger
+
+**Stack:** `C#` · `ASP.NET Core 9 Web API` · `Angular` · `TypeScript` · `EF Core` · `SQL Server` · `Reactive Forms` · `Bootstrap 5` · `Swagger`
+
+[**View ClinicCare Repository →**](https://github.com/FardinAhasanDev/cliniccare-fullstack)
 
 ### 🏥 [MediCore — Patient Management System](https://github.com/FardinAhasanDev/CoreDataBaseFirstCRUDUsingSP)
 
